@@ -7,9 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwejNN&show_icons=true&theme=dark&hide_border=true" width="%100" height="100%">
     <br><br>
     <h1>İletişim / Contact</h1>
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/KwejNN-111111.svg?&style=for-the-badge&logo=discord"></a>
-    <a href="https://github.com/thearkxd" target="_blank"><img src="https://shields.io/badge/KwejNN-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/KwejNN-111111.svg?&style=for-the-badge&logo=npm"></a>
-    <a href="https://discord.gg/UEPcFtytcc" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
-    <a href="https://theark.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
+    <a href="https://discord.com/users/560906219238457344" target="_blank"><img src="https://shields.io/badge/KwejNN-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/KwejNN" target="_blank"><img src="https://shields.io/badge/KwejNN-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://discord.gg/8XM3Cw5Amg" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+    <a href="http://rexybot.tk" target="_blank"><img src="https://shields.io/badge/My Website-111111.svg?&style=for-the-badge"></a>
   </div>
