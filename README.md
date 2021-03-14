@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hakkımda / About Me</h1>
-    <p>Merhaba, ben KwejNN, 16 yaşında, kendi halinde bir yazılıma meraklı birisiyim. Yaklaşık 1 yıl önce Discord botları geliştirerek başladığım yazılım serüvenine hala kendimi geliştirerek devam ediyorum. Aktif olarak Javascript dilinde ustalaşmaya çalışışyorum.</p>
+    <p>Merhaba, ben KwejNN, 16 yaşında, kendi halinde bir yazılıma meraklı birisiyim. Yaklaşık 1 yıl önce Discord botları geliştirerek başladığım yazılım serüvenine hala kendimi geliştirerek devam ediyorum. Aktif olarak Javascript ve Python dillerinde ustalaşmaya çalışıyorum.</p>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=KwejNN&show_icons=true&theme=dark" width="%100" height="150px">
     <br>
