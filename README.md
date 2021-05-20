@@ -5,6 +5,8 @@
     ## Spotify Playing Now:
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/8zgrlv8f34hjr69eounsz96cz)
+    
+    <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwejNN&langs_count=5&theme=dark" width="%100" height="100%">
     <br><br>
     <h1>İletişim / Contact</h1>
