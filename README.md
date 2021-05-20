@@ -2,6 +2,11 @@
     <h1>Hakkımda / About Me</h1>
     <p>Merhaba, ben KwejNN, 16 yaşında, kendi halinde bir yazılıma meraklı birisiyim. Yaklaşık 1 yıl önce Discord botları geliştirerek başladığım yazılım serüvenine hala kendimi geliştirerek devam ediyorum. Aktif olarak Javascript ve Python dillerinde ustalaşmaya çalışıyorum.</p>
     <br>
+    ## Spotify Playing Now:
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/hojimymph0082cs92xwdqj74y)
+
+    <br>
     <img src="https://github-readme-stats.vercel.app/api?username=KwejNN&show_icons=true&theme=dark" width="%100" height="150px">
     <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KwejNN&langs_count=5&theme=dark" width="%100" height="100%">
